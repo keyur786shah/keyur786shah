@@ -1,4 +1,13 @@
-## Hi there 👋
+## I am Keyur SHAH 👋
+Dynamic Solution Architect with 12+ years of experience architecting and delivering robust Azure-based cloud solutions. 
+
+Passionate about solving complex business problems and transforming ideas into reality using cutting-edge technologies and best practices.
+
+As a Solution Architect at IOM-UN, the United Nations Agency for Migration, I have spearheaded the design and implementation of 9 enterprise-level solutions, enhancing system performance and cutting costs by up to 99%. 
+
+Some of the solutions I have delivered include a cloud-based e-signature solution that enables signing across 81 countries in six weeks, a centralized Salesforce sync service that achieves a 200-fold performance improvement, and a virtual credit card creation service that optimizes transaction processes.
+
+Skilled in leading cross-functional teams and translating complex business needs into high-quality solutions, with expertise in Azure cloud architecture, microservices, and DevOps.
 
 <!--
 **keyur786shah/keyur786shah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
